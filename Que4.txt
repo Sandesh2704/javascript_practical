@@ -1,0 +1,11 @@
+4) Create a Node.js file that writes the file using the File System
+module.
+
+
+process =>
+1st step : create text.file in floder 
+2nd step : creste js in same floder to write code 
+3rd step : use fs module 
+4th step : use fs.writefile() method for open file
+5th step : use w flage for open file
+syntex for opne file : fs.open(filename,flage,callback)

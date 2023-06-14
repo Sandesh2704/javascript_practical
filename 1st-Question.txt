@@ -1,0 +1,4 @@
+1) Why node.js ?
+
+answer => 1) Node.js is fast and lightweight and its ability to emply javascript code on both the fronend and backend   
+          2) Node.js allow you to code outside the web browser 

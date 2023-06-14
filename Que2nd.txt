@@ -1,0 +1,10 @@
+2) Create a Node.js file that appends the existing file with a new
+content using the File System module.
+
+process =>
+
+1nd step : creste js  file to write code 
+2rd step : use fs module 
+3th step : use fs.appenfiled() method for create new  file
+
+syntex for opne file : fs.oppendfile(filename,flage,callback)
